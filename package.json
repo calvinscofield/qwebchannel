@@ -1,0 +1,19 @@
+{
+  "name": "@calvinscofield/qwebchannel",
+  "version": "1.0.1",
+  "description": "Qt WebChannel",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:calvinscofield/qwebchannel.git"
+  },
+  "keywords": [
+    "Qt",
+    "QWebChannel"
+  ],
+  "author": "calvinscofield@gmail.com",
+  "license": "LGPL-2.1"
+}
